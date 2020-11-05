@@ -2,7 +2,7 @@
 
 [![APIs in R with Plumber Title Slide](img/title-slide.jpg)](slides/slides.pdf)
 
-This talk highlights using [Plumber](https://www.rplumber.io/) to solve a common set of data science problems by converting standard R code into responsive web APIs.
+This talk highlights using [Plumber](https://www.rplumber.io/) to solve a common set of data science problems by converting standard R code into responsive web APIs. Examples and slides are extensively borrowed from a recent [RStudio webinar on Plumber](https://github.com/blairj09-talks/plumber-webinar-2020).
 
 ## Environment
 
